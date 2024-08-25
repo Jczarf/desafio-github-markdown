@@ -1,6 +1,7 @@
 # desafio-github-markdown
 Desafio projeto para certificação git|git-hub
 
+<hr>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
